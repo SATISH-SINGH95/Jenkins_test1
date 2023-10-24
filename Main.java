@@ -11,6 +11,9 @@ public class Main{
         System.out.println("Added one more file");
         System.out.println("-----------------------");
         System.out.println("Added one more file again");
+
+        Student student = new Student();
+        student.sayHello();
     }
 
 }

@@ -6,6 +6,7 @@ public class Student {
         System.out.println("I am only for the testing purpose");
 
         System.out.println("Hello everyone from Satish side");
+        System.out.println("HI");
     }
     
 }
